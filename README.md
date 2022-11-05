@@ -1,1 +1,1 @@
-# Commentator-Backend
+Backend for the commentator app.
